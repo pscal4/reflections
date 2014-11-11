@@ -19,3 +19,24 @@ And if it was changed since it was checked out but has not been staged, it is mo
 -How can you use the staging area to make sure you have one commit per logical change?
 Using git diff --staged will show all the differences between the staging area 
 and the current commit.
+
+-What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+You would use new branches when adding a new feature or adding features for a future release.
+Branches help keep the master version in tact but allow changes in a future version.
+Master branch should always be the production working version.  
+Development branch can be the active version for developers.  
+Experimental branch for trying out new things.
+
+-How do the diagrams help you visualize the branch structure?
+git log --graph --online branch_name1 branch_name2 is not working for me.
+git log --graph --all shows the lines but 
+
+
+-What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+UGH... I messed up the merge.  May have to start all over!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:  Computerized
+Cons:  Can get mixed up!
