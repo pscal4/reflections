@@ -15,3 +15,7 @@ and stores that snapshot permanently to your Git directory.
 If a particular version of a file is in the Git directory, it’s considered committed. 
 If it’s modified but has been added to the staging area, it is staged. 
 And if it was changed since it was checked out but has not been staged, it is modified.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+Using git diff --staged will show all the differences between the staging area 
+and the current commit.
