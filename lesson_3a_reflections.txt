@@ -1,1 +1,3 @@
-first line
+When would you want to use a remote repository rather than keeping all your work local?
+You would use GitHub if you want to collaborate with others.  
+It is also good to have a copy of your files on the cloud 
