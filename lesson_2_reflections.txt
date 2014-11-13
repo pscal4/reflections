@@ -35,7 +35,8 @@ git log --graph --all shows the lines but
 
 -What is the result of merging two branches together? 
 Why do we represent it in the diagram the way we do?
-UGH... I messed up the merge.  May have to start all over!
+The merges puts all the changes from one branch into another branch.  
+The diagram helps you visual the parent for each commit that is mergeds.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Pros:  Computerized
