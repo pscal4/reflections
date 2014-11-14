@@ -1,1 +1,11 @@
-Start out lesson 3
+-When would you want to use a remote repository rather than keeping all your work local?
+You would use GitHub if you want to collaborate with others.  
+It is also good to have a copy of your files on the cloud.
+
+-Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+Your local repository may not be compatible with the remote.
+
+-Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+I don't feel like answering this one.  
